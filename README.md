@@ -2,8 +2,8 @@
 
 Boiler plate for a number of possible games
 
-<video src="./final_recording.mp4" controls="controls" style="max-width: 730px;">
-</video>
+https://user-images.githubusercontent.com/13130150/194027891-8bf325a8-4919-4cb2-b6a4-635287a00084.mp4
+
 
 ## Features
 
